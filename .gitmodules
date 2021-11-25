@@ -1,0 +1,3 @@
+[submodule "bedrock/3rdparty/luau"]
+	path = bedrock/3rdparty/luau
+	url = https://github.com/Roblox/luau.git
