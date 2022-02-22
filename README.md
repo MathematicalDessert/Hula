@@ -10,9 +10,9 @@ laid by Roblox with [Luau](https://github.com/Roblox/luau), including but not li
 Hula aims to be:
 
 * 🔧***Extensible***. Adding features should be easy for both experienced and non-experienced Luau users.
-* 💨***Performant***. As a showcase of the performance of Luau, Hula should also highly performant in all areas.
+* 💨***Performant***. As a showcase of the performance of Luau, Hula should also be highly performant in all areas.
 * ✔️***Reliable***. Using Hula should be a smooth experience with no unexpected hangs or crashes.
-* 💻***Native***. Hula should run on all platforms equally with similar performance.
+* 💻***Native***. Hula should run on all platforms with similar performance.
 * 🪶***Lightweight***. Shouldn't have many dependencies, and any dependencies (or plugins) should be decoupleable.
 * 🪟***Simple, but beautiful***. A clean user interface with minimal clutter and powerful tools.
 
